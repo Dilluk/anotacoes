@@ -1,48 +1,68 @@
 # Anotações
- Sites que costumo usar (em adição), irei organizar cada um deles em categorias, se quiser contribuir sugerindo uma adição ou alteração fique a vontade!
+`Sites que costumo usar (em adição), irei organizar cada um deles em categorias, se quiser contribuir sugerindo uma adição ou alteração fique a vontade!`
 
-- [LinkedIn](https://br.linkedin.com)
-- [GitHub](https://github.com)
-- [Font Awesome](https://fontawesome.com)
-- [CDNjs](https://cdnjs.com)
-- [W3Schools](https://www.w3schools.com)
-- [Stack Overflow](https://pt.stackoverflow.com)
+## Social
 - [Codewars](https://www.codewars.com)
-- [Can I Use](https://caniuse.com)
-- [IcoMoon](https://icomoon.io/app/#/select)
-- [FlexBox](https://flexboxfroggy.com)
-- [DevDocs](https://devdocs.io)
-- [CodeSandbox](https://codesandbox.io)
-- [CodePen](https://codepen.io)
-- [Pastebin](https://pastebin.com)
-- [Scratch](https://scratch.mit.edu)
-- [Repl.it](https://replit.com)
-- [JSFiddle](https://jsfiddle.net)
-- [jQuery](https://jquery.com)
-- [Diagrams](https://app.diagrams.net)
-- [MAC Vendors](https://macvendors.com)
-- [HackTheBox](https://www.hackthebox.eu)
-- [PowerSupply Calculator](https://outervision.com)
-- [ToolBox](https://www.rapidtables.com)
 - [Downdetector](https://downdetector.com.br)
-- [SpeedTest](https://www.speedtest.net)
-- [Emojipedia](https://emojipedia.org)
 - [Fandom](https://www.fandom.com)
-- [4Devs](https://www.4devs.com.br)
-- [Pixlr](https://pixlr.com/br/)
-- [Txtcraft](https://textcraft.net/style/Ev1lS3b4st14n/minecraft)
-- [Ezgif](https://ezgif.com)
-- [Txtgen](https://lingojam.com/FancyTextGenerator)
-- [Unsplash](https://unsplash.com)
-- [GetEmoji](https://getemoji.com)
+- [GitHub](https://github.com)
+- [LinkedIn](https://br.linkedin.com)
+- [Stack Overflow](https://pt.stackoverflow.com)
+## UI/UX Design
 - [Color Picker](https://imagecolorpicker.com)
-- [Gravatar](https://pt.gravatar.com)
-- [Radio Garden](http://radio.garden)
-- [This Person does not Exist](https://thispersondoesnotexist.com)
-- [Pointer Pointer](https://pointerpointer.com)
-- [FutureMe](https://www.futureme.org)
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [Filext](https://filext.com)
-- [Sucuri Sitecheck](https://sitecheck.sucuri.net)
-- [UIGradients](https://uigradients.com)
 - [Dribbble](https://dribbble.com)
+- [Emojipedia](https://emojipedia.org)
+- [GetEmoji](https://getemoji.com)
+- [UIGradients](https://uigradients.com)
+- [Unsplash](https://unsplash.com)
+
+## Fontes/Ícones
+- [CDNjs](https://cdnjs.com)
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io/app/#/select)
+
+## Calculos
+- [PowerSupply Calculator](https://outervision.com)
+
+## Documentação
+- [DevDocs](https://devdocs.io)
+- [W3Schools](https://www.w3schools.com)
+
+## Editor de Texto Online
+- [CodePen](https://codepen.io)
+- [CodeSandbox](https://codesandbox.io)
+- [JSFiddle](https://jsfiddle.net)
+- [Pastebin](https://pastebin.com)
+- [Repl.it](https://replit.com)
+- [Txtgen](https://lingojam.com/FancyTextGenerator)
+
+## Editor de Imagens/Flowchart Online
+- [Diagrams](https://app.diagrams.net)
+- [Ezgif](https://ezgif.com)
+- [Txtcraft](https://textcraft.net/style/Ev1lS3b4st14n/minecraft)
+- [Pixlr](https://pixlr.com/br/)
+
+## All-in-One
+- [ToolBox](https://www.rapidtables.com)
+- [4Devs](https://www.4devs.com.br)
+
+## Scanner de Arquivos/Sites
+- [Filext](https://filext.com)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [Sucuri Sitecheck](https://sitecheck.sucuri.net)
+
+## Tecnologias em Geral
+- [MAC Vendors](https://macvendors.com)
+- [jQuery](https://jquery.com)
+- [Can I Use](https://caniuse.com)
+- [Scratch](https://scratch.mit.edu)
+
+## Bônus
+- [FutureMe](https://www.futureme.org)
+- [Pointer Pointer](https://pointerpointer.com)
+- [This Person does not Exist](https://thispersondoesnotexist.com)
+- [HackTheBox](https://www.hackthebox.eu)
+- [FlexBox](https://flexboxfroggy.com)
+- [Radio Garden](http://radio.garden)
+- [Gravatar](https://pt.gravatar.com)
+- [SpeedTest](https://www.speedtest.net)
