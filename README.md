@@ -4,7 +4,7 @@
 [LinkedIn]()
 [GitHub](github.com)
 [Font Awesome]()
-[CDNjs](cdnjs.com)
+[CDNjs](https://cdnjs.com)
 [W3Schools]()
 [Stack Overflow]()
 [Codewars]()
