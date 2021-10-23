@@ -2,9 +2,9 @@
  Anotações importantes de programação
 
 [LinkedIn]()
-[GitHub]()
+[GitHub](github.com)
 [Font Awesome]()
-[CDNSjs]()
+[CDNjs](cdnjs.com)
 [W3Schools]()
 [Stack Overflow]()
 [Codewars]()
