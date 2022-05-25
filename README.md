@@ -36,11 +36,12 @@
 - [Repl.it](https://replit.com)
 - [Txtgen](https://lingojam.com/FancyTextGenerator)
 
-## Editor de Imagens/Flowchart Online
+## Editor/Hospedagem de Imagens/Flowchart Online
 - [Diagrams](https://app.diagrams.net)
 - [Ezgif](https://ezgif.com)
 - [Txtcraft](https://textcraft.net/style/Ev1lS3b4st14n/minecraft)
 - [Pixlr](https://pixlr.com/br/)
+- [Imgur](https://imgur.com)
 
 ## All-in-One
 - [ToolBox](https://www.rapidtables.com)
